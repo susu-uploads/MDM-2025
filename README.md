@@ -1,5 +1,3 @@
-# Современные методы DevOps
+# 2025/2026 Современные методы DevOps (очная)
 
-Modern DevOps Methods
-
-[MDM-2025 — описание курса и материалы](COURSE.md).
+## Modern DevOps Methods

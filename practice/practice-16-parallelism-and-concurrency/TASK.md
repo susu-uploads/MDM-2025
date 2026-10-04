@@ -25,21 +25,20 @@ origin: "https://edu.susu.ru/mod/assign/view.php?id=8136919"
 Если источник недоступен, сохраните существующую выгрузку и сообщите об ограничении; не придумывайте недостающие сведения.
 -->
 
-## Теоретические материалы
+### Потоки и процессы
 
-* Что такое CI/CD? - https://habr.com/ru/company/otus/blog/515078/
-* Руководство по CI/CD в Gitlab - https://habr.com/ru/post/498436/
-* Официальная документация по Gitlab CI/CD - https://docs.gitlab.com/ee/ci/quick_start/
-* Примеры - https://www.dmosk.ru/miniinstruktions.php?mini=gitlab-pipeline
-* Gitlab CI и Docker - https://blog.egorvakh.com/ru/posts/gitlab-ci-create-docker-images
+- Процессор: потоки или ядра \- <https://linchakin.com/posts/processor-threads-or-cores/>
+- Потоки и многопоточность для начинающих \- <https://pythonru.com/uroki/potoki-i-mnogopotochnost-dlja-nachinajushhih>
+- Многопроцессорная обработка \- <https://bestprogrammer.ru/izuchenie/rukovodstvo-po-mnogoprotsessornoy-obrabotke-i-parallelnomu-programmirovaniyu-v-python>
+- Конкурентность и параллелизм в Python: в чем разница? \- <https://proglib.io/p/konkurentnost-i-parallelizm-v-python-v-chem-raznica-2022-04-10>
+- Когда и как использовать multithreading и multiprocessing в Python \- <https://habr.com/ru/company/otus/blog/501056/>
+- Механизмы синхронизации потоков \- <https://python-scripts.com/synchronization-between-threads>
+- Взаимодействие и обмен данными между процессами \- <https://coderlessons.com/tutorials/python-technologies/izuchite-parallelizm-s-python/vzaimodeistvie-protsessov>
 
-## Задание
+#### Асинхронность в Python. Asyncio
 
-В качестве ответа, вам нужно предоставить ссылку на Merge Request, который содержит следующие изменения:
-
-* CRUD методы (в необходимом количестве, но минимум 1), взаимодействующие с выбранной базой данных
-* Готовый и рабочий фронт (способ реализации не имеет значения)
-* Backend методы, взаимодействующие с БД и фронтом. Можно реализовать только часть функционала (именно backend), но должна быть связность со всеми остальными компонентами проекта
-* Всё вышеуказанное ДОЛЖНО соответствовать теме вашего проекта.
-
-Фронт должен быть на русском языке, содержать интуитивно понятный интерфейс или иметь инструкции/подсказки по использованию. На странице должно быть отображено название вашего проекта.
+- Введение в асинхронность \- <https://habr.com/ru/company/otus/blog/509328/>
+- Продвинутое использование Asyncio \- <https://habr.com/ru/post/337420/>
+- Корутины и задачи \- <https://digitology.tech/docs/python_3/library/asyncio-task.html>
+- Конкурентность и параллелизм в Python: в чем разница? \- <https://vk.com/@we_use_django-konkurentnost-i-parallelizm-v-python-v-chem-raznica>
+- Асинхронный ввод/вывод \- <https://digitology.tech/docs/python_3/library/asyncio-stream.html>

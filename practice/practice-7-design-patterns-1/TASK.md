@@ -26,10 +26,3 @@ origin: "https://edu.susu.ru/mod/assign/view.php?id=8136909"
 -->
 
 Выберите один паттерн из предложенных в файлах и реализуйте его, согласно заданию.
-
-- `practice07-1.docx`
-- `practice07-2.docx`
-- `practice07-3.docx`
-- `practice07-4.docx`
-- `practice07-5.docx`
-- `practice07-6.docx`

@@ -25,14 +25,13 @@ origin: "https://edu.susu.ru/mod/assign/view.php?id=8136917"
 Если источник недоступен, сохраните существующую выгрузку и сообщите об ограничении; не придумывайте недостающие сведения.
 -->
 
-## Теоретические материалы
+Для чего нужны очереди? \- <https://habr.com/ru/post/165981/>
 
-* Для чего нужны очереди? - https://habr.com/ru/post/165981/
-* Туториал по RabbitMQ - https://habr.com/ru/post/149694/
-* Что такое Redis? - https://pythonru.com/biblioteki/redis-python
-* Celery - https://konstantinklepikov.github.io/myknowlegebase/notes/celery.html
+Туториал по RabbitMQ \- <https://habr.com/ru/post/149694/>
 
-## Задание
+Что такое Redis? \- [https://pythonru.com/biblioteki/redis-python](https://pythonru.com/biblioteki/redis-python#:~:text=Redis%20%E2%80%94%20%D1%8D%D1%82%D0%BE%20%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B1%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85,%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%D0%B8%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.)
+
+Celery \- <https://konstantinklepikov.github.io/myknowlegebase/notes/celery.html>
 
 Создайте приложение, демонстрирующее управление очередью задач.
 

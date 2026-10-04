@@ -1,5 +1,5 @@
 ---
-ru: "Современные методы DevOps"
+ru: "2025/2026 Современные методы DevOps (очная)"
 en: "Modern DevOps Methods"
 code: "MDM-2025"
 origin: "https://edu.susu.ru/course/view.php?id=202705"
@@ -23,57 +23,98 @@ origin: "https://edu.susu.ru/course/view.php?id=202705"
 Если источник недоступен, сохраните существующую выгрузку и сообщите об ограничении; не придумывайте недостающие сведения.
 -->
 
-# Современные методы DevOps (2025/2026, очная)
+# 2025/2026 Современные методы DevOps (очная)
 
-## Преподаватели курса
+## Общее
 
-- Иванова Ольга Николаевна — доцент кафедры системного программирования; `onivanova@susu.ru`; ауд. 477а/3.
-- Гоглачев Андрей Игоревич — преподаватель кафедры системного программирования; `goglachevai@susu.ru`.
+Иванова Ольга Николаевна, доцент кафедры СП, onivanova@susu.ru, ауд. 477а/3
 
-## Формат оценки
+Гоглачев Андрей Игоревич, преподаватель кафедры СП, goglachevai@susu.ru
 
-- Тип итогового контроля: зачетный курс (`Финальный тест` в разделе `Зачет`).
-- Для зачета: выполнить 16 практик, пройти 8 промежуточных тестов и сдать финальный тест.
-- Дополнительно учитываются посещаемость и раздел `Бонусы`.
+- [Объявления](https://edu.susu.ru/mod/forum/view.php?id=8136880)
 
-## Темы курса
+- [Бонусы](https://edu.susu.ru/mod/assign/view.php?id=8136881)
 
-1. Чистый код и запахи кода
-2. Рефакторинг кода и рефакторинг БД
-3. Принципы SOLID
-4. Паттерны проектирования
-5. Модели разработки
-6. TDD
-7. HTTP, API, FastAPI
-8. Подключение БД
-9. Docker
-10. Очереди сообщений (Celery)
-11. CI/CD
-12. Параллелизм и конкурентность
+- [Онлайн занятие](https://edu.susu.ru/mod/bigbluebuttonbn/view.php?id=8136882)
 
+- [Посещаемость](https://edu.susu.ru/mod/attendance/view.php?id=8136884)
 
-## Материалы репозитория
+## Лекции
 
-- [lecture01.pptx](lecture/lecture-1-clean-code/lecture01.pptx)
-- [lecture02.pptx](lecture/lecture-2-refactoring/lecture02.pptx)
-- [lecture03.pptx](lecture/lecture-3-solid/lecture03.pptx)
-- [lecture04-1.pptx](lecture/lecture-4-design-patterns/lecture04-1.pptx), [lecture04-2.pptx](lecture/lecture-4-design-patterns/lecture04-2.pptx)
-- [lecture05-1.pptx](lecture/lecture-5-bridge-pattern-and-agile/lecture05-1.pptx), [lecture05-2.pptx](lecture/lecture-5-bridge-pattern-and-agile/lecture05-2.pptx)
-- [lecture06-1.pptx](lecture/lecture-6-template-method-and-development-methodologies/lecture06-1.pptx), [lecture6-2.pptx](lecture/lecture-6-template-method-and-development-methodologies/lecture6-2.pptx)
-- [designpatternscard.pdf](lecture/lecture-7-design-patterns-reference/designpatternscard.pdf)
-- [Практика 1 - Запахи](practice/practice-1-code-smells/TASK.md)
-- [Практика 2 - Рефакторинги](practice/practice-2-refactoring/TASK.md)
-- [Практика 3 - Рефакторинг БД](practice/practice-3-database-refactoring/TASK.md)
-- [Практика 4 - SOLID](practice/practice-4-solid/TASK.md)
-- [Практика 5 - TDD-1](practice/practice-5-tdd-1/TASK.md)
-- [Практика 6 - TDD-2](practice/practice-6-tdd-2/TASK.md)
-- [Практика 7 - Паттерны-1](practice/practice-7-design-patterns-1/TASK.md)
-- [Практика 8 - Паттерны-2](practice/practice-8-design-patterns-2/TASK.md)
-- [Практика 9 - Командная игра по моделям](practice/practice-9-team-game-on-development-models/TASK.md)
-- [Практика 10 - Доклады](practice/practice-10-presentations/TASK.md)
-- [Практика 11 - HTTP, API, FastAPI](practice/practice-11-http-api-fastapi/TASK.md)
-- [Практика 12 - Подключение БД](practice/practice-12-database-connection/TASK.md)
-- [Практика 13 - Докеры](practice/practice-13-docker/TASK.md)
-- [Практика 14 - Очереди сообщений](practice/practice-14-message-queues/TASK.md)
-- [Практика 15 - CI_CD](practice/practice-15-ci-cd/TASK.md)
-- [Практика 16 - Параллелизм и конкурентность](practice/practice-16-parallelism-and-concurrency/TASK.md)
+- [Лекция 01 Чистый код. Запахи кода](https://edu.susu.ru/mod/resource/view.php?id=8136885)
+
+- [Лекция 02 Рефакторинг кода](https://edu.susu.ru/mod/resource/view.php?id=8136886)
+
+- [Лекция 03 Принципы проектирования классов. Методология SOLID](https://edu.susu.ru/mod/resource/view.php?id=8136887)
+
+- [Лекция 04-1 Паттерны](https://edu.susu.ru/mod/resource/view.php?id=8136888)
+
+- [Лекция 04-2 Паттерны](https://edu.susu.ru/mod/resource/view.php?id=8136889)
+
+- [Шпаргалка по паттернам](https://edu.susu.ru/mod/resource/view.php?id=8136890)
+
+- [Лекция 05-1 Паттерны](https://edu.susu.ru/mod/resource/view.php?id=8136891)
+
+- [Лекция 05-2 Паттерны](https://edu.susu.ru/mod/resource/view.php?id=8136892)
+
+- [Лекция 06-1 Модели разработки](https://edu.susu.ru/mod/resource/view.php?id=8136893)
+
+- [Лекция 06-2 Модели разработки](https://edu.susu.ru/mod/resource/view.php?id=8136894)
+
+## Тесты
+
+- [Тест 01](https://edu.susu.ru/mod/quiz/view.php?id=8136895)
+
+- [Тест 02](https://edu.susu.ru/mod/quiz/view.php?id=8136896)
+
+- [Тест 03](https://edu.susu.ru/mod/quiz/view.php?id=8136897)
+
+- [Тест 04](https://edu.susu.ru/mod/quiz/view.php?id=8136898)
+
+- [Тест 05](https://edu.susu.ru/mod/quiz/view.php?id=8136899)
+
+- [Тест 06](https://edu.susu.ru/mod/quiz/view.php?id=8136900)
+
+- [Тест 07](https://edu.susu.ru/mod/quiz/view.php?id=8136901)
+
+- [Тест 08](https://edu.susu.ru/mod/quiz/view.php?id=8136902)
+
+## Практики
+
+- [Практика 01 Запахи](https://edu.susu.ru/mod/assign/view.php?id=8136903)
+
+- [Практика 02 Рефакторинги](https://edu.susu.ru/mod/assign/view.php?id=8136904)
+
+- [Практика 03 Рефакторинг БД](https://edu.susu.ru/mod/assign/view.php?id=8136905)
+
+- [Практика 04 SOLID](https://edu.susu.ru/mod/assign/view.php?id=8136906)
+
+- [Практика 05 TDD-1](https://edu.susu.ru/mod/assign/view.php?id=8136907)
+
+- [Практика 06 TDD-2](https://edu.susu.ru/mod/assign/view.php?id=8136908)
+
+- [Практика 07 Паттерны-1](https://edu.susu.ru/mod/assign/view.php?id=8136909)
+
+- [Практика 08 Паттерны-2](https://edu.susu.ru/mod/assign/view.php?id=8136910)
+
+- [Практика 09 Командная игра по моделям](https://edu.susu.ru/mod/assign/view.php?id=8136911)
+
+- [Выбор варианта доклада для практики 10](https://edu.susu.ru/mod/choice/view.php?id=8136912)
+
+- [Практика 10 Доклады](https://edu.susu.ru/mod/assign/view.php?id=8136913)
+
+- [Практика 11 HTTP, API, FastAPI](https://edu.susu.ru/mod/assign/view.php?id=8136914)
+
+- [Практика 12 Подключение БД](https://edu.susu.ru/mod/assign/view.php?id=8136915)
+
+- [Практика 13 Докеры](https://edu.susu.ru/mod/assign/view.php?id=8136916)
+
+- [Практика 14 Очереди сообщений. Celery](https://edu.susu.ru/mod/assign/view.php?id=8136917)
+
+- [Практика 15 CI/CD](https://edu.susu.ru/mod/assign/view.php?id=8136918)
+
+- [Практика 16 Параллелизм и конкурентность](https://edu.susu.ru/mod/assign/view.php?id=8136919)
+
+## Зачет
+
+- [Финальный тест](https://edu.susu.ru/mod/quiz/view.php?id=8136920)
